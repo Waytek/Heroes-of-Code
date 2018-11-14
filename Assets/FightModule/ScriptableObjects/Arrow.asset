@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a960a7261d2c1b04f9bf13e5559a2b57, type: 3}
+  m_Name: Arrow
+  m_EditorClassIdentifier: 
+  unitIcon: {fileID: 21300000, guid: d1d867564517d544a97671ac31fa81c0, type: 3}
+  unitModele: {fileID: 1606078938206780, guid: 9f13db0c8a547d44d97cdb0eb340dccf, type: 2}
+  unitName: "\u041B\u0443\u0447\u043D\u0438\u043A\u0438"
+  unitHp: 15
+  unitAttack: 1
+  activeSkill: 2
+  activeSkillIcon: {fileID: 21300000, guid: f719c1ae3433c084b8a7127c59f46449, type: 3}
+  healPercent: 100
+  damageConst: 1
+  damageKoef: 1
+  AoEDamage: 10

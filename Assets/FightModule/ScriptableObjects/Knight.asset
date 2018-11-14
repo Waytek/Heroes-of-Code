@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a960a7261d2c1b04f9bf13e5559a2b57, type: 3}
+  m_Name: Knight
+  m_EditorClassIdentifier: 
+  unitIcon: {fileID: 21300000, guid: c34a76f6bc939284186130a3a459d96d, type: 3}
+  unitModele: {fileID: 1711659464620314, guid: c7b9e149d1fc9f7498b647d5c8ce46d7, type: 2}
+  unitName: "\u0420\u044B\u0446\u0430\u0440\u0438"
+  unitHp: 50
+  unitAttack: 5
+  activeSkill: 0
+  activeSkillIcon: {fileID: 21300000, guid: bf5864d9f1c1ae24dbf6d1c325ebe9fa, type: 3}
+  healPercent: 100
+  damageConst: 1
+  damageKoef: 1
+  AoEDamage: 10
